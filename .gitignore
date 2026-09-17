@@ -3,4 +3,9 @@ __pycache__/
 env/
 venv/
 .venv/
+*.keras
 src/csi_pillar/data/
+Images/*
+!Images/csi_phase_comparison.png
+!Images/training_history.png
+notes.txt
