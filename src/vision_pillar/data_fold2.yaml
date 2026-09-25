@@ -1,0 +1,8 @@
+path: .
+train: src/vision_pillar/splits/dfire_train2.txt
+val: src/vision_pillar/splits/dfire_valid2.txt
+test: test/images
+
+names:
+  0: smoke
+  1: fire

@@ -4,3 +4,13 @@ env/
 venv/
 .venv/
 src/csi_pillar/data/
+
+# Vision Pillar dataset
+src/dataset/
+
+# YOLO training outputs
+runs/
+weights/
+
+# YOLO model weights
+*.pt
