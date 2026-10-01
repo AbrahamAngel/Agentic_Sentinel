@@ -45,3 +45,4 @@ tzdata==2026.3
 urllib3==2.7.0
 wheel==0.47.0
 wrapt==2.3.0
+ultralytics==8.4.154

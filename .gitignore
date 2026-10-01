@@ -9,3 +9,13 @@ Images/*
 !Images/csi_phase_comparison.png
 !Images/training_history.png
 notes.txt
+
+# Vision Pillar dataset
+src/dataset/
+
+# YOLO training outputs
+runs/
+weights/
+
+# YOLO model weights
+*.pt
